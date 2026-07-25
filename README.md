@@ -71,7 +71,7 @@ Buat saya, dunia digital dan dunia nyata sebenarnya nyambung — ilmu **digital 
 </td>
 <td width="30%" valign="top" align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=18&duration=2200&pause=800&color=DC2626&center=true&vCenter=true&width=220&height=90&multiline=true&lines=NKRI+HARGA+MATI;PRO+PATRIA;Semoga+Lolos"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=18&duration=2200&pause=800&color=DC2626&center=true&vCenter=true&width=220&height=90&multiline=true&lines=NKRI+HARGA+MATI;PRO+PATRIA;Semoga+Lolos+%F0%9F%99%8F"/>
 
 </td>
 </tr>
@@ -154,13 +154,9 @@ Eksperimen dan pengembangan pada bidang Artificial Intelligence, Machine Learnin
 <img src="https://github-profile-trophy.vercel.app/?username=daffa2555&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 </p>
 
-<!--
-🐍 Snake contribution animation (opsional, butuh GitHub Actions):
-1. Buat file .github/workflows/snake.yml di repo daffa2555/daffa2555
-2. Isi dengan action Platane/snk, output ke branch "output"
-3. Tampilkan dengan:
-   <img src="https://raw.githubusercontent.com/daffa2555/daffa2555/output/github-contribution-grid-snake-dark.svg"/>
--->
+<p align="center">
+<img src="https://raw.githubusercontent.com/daffa2555/daffa2555/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:1a1a2e&height=3&width=100%"/>
 
