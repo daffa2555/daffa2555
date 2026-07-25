@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a3e,100:16213e&height=260&section=header&text=Halo,%20Saya%20Daffa&fontSize=48&fontColor=58A6FF&animation=twinkling&fontAlignY=38&desc=Mahasiswa%20Sistem%20dan%20Teknologi%20Informasi&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1a3e,60:2d1b4e,100:16213e&height=270&section=header&text=Halo,%20Saya%20Daffa&fontSize=50&fontColor=58A6FF&animation=twinkling&fontAlignY=36&desc=Mahasiswa%20Sistem%20dan%20Teknologi%20Informasi&descAlignY=54&descSize=18&descColor=ffffff" width="100%"/>
 
 <a href="https://daffa2555.github.io">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%A4%96+Artificial+Intelligence+Enthusiast;%E2%9A%99%EF%B8%8F+Compiler+%26+Language+Engineer;%F0%9F%9B%A1%EF%B8%8F+Digital+Forensics+Developer;%F0%9F%A7%A0+Building+Vidyax+Programming+Language;%F0%9F%9A%80+Terus+belajar%2C+terus+membangun."/>
@@ -11,6 +11,11 @@
 <img src="https://img.shields.io/badge/Website-daffa2555.github.io-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"/>
 <img src="https://komarev.com/ghpvc/?username=daffa2555&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/daffa2555?style=for-the-badge&color=58A6FF&labelColor=1a1a2e&logo=github"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🧠_Sedang_Membangun-Vidyax_Language-2d1b4e?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🛡️_Sedang_Membangun-AegisDFIR-2d1b4e?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
@@ -61,10 +66,12 @@ Selain ngoprek compiler dan AI, ada satu mimpi besar yang masih dikejar: **jadi 
 
 Buat saya, dunia digital dan dunia nyata sebenarnya nyambung — ilmu **digital forensik** dan **cyber security** yang selama ini dipelajari itu justru bekal buat terjun langsung membantu penegakan hukum di era teknologi. Jadi dua-duanya jalan bareng: bangun teknologi sambil menyiapkan diri buat pengabdian ke NKRI. 🇮🇩
 
+*(iya, agak keliatan niat banget ya di README 😄 — yaudah biarin, sekalian doa)*
+
 </td>
 <td width="30%" valign="top" align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=18&duration=2200&pause=800&color=DC2626&center=true&vCenter=true&width=220&height=90&multiline=true&lines=NKRI+HARGA+MATI;PRO+PATRIA;Semoga+Lolos"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=18&duration=2200&pause=800&color=DC2626&center=true&vCenter=true&width=220&height=90&multiline=true&lines=NKRI+HARGA+MATI;PRO+PATRIA;Semoga+Lolos+%F0%9F%99%8F"/>
 
 </td>
 </tr>
