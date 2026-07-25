@@ -30,7 +30,7 @@ Saat ini sedang mengembangkan **Vidyax**, bahasa pemrograman AI-native dengan co
 <td width="40%" valign="top">
 
 ```yaml
-Nama    : Daffa
+Nama    : M N DAFFA
 Peran   : STI Student · Independent Dev
 Brand   : NaDev
 Minat   : AI · Compiler · Cybersecurity
