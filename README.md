@@ -138,24 +138,33 @@ Eksperimen dan pengembangan pada bidang Artificial Intelligence, Machine Learnin
 ## 📊 Statistik GitHub
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=daffa2555&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffa2555&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=daffa2555&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daffa2555&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=daffa2555&theme=tokyonight&hide_border=true&background=0d1117"/>
+  <img src="https://streak-stats.demolab.com/?user=daffa2555&theme=tokyonight&hide_border=true&background=0d1117"/>
+</p>
+
+<!-- 
+  Dihide dulu karena service sering down:
+  - Activity Graph (github-readme-activity-graph.vercel.app)
+  - Profile Trophy (github-profile-trophy.vercel.app)
+  Kalau sudah stabil lagi, uncomment di bawah ini.
+-->
+
+<!--
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daffa2555&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=daffa2555&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=daffa2555&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 </p>
+-->
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=daffa2555&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/daffa2555/daffa2555/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/daffa2555/daffa2555/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:1a1a2e&height=3&width=100%"/>
