@@ -30,7 +30,7 @@ Saat ini sedang mengembangkan **Vidyax**, bahasa pemrograman AI-native dengan co
 <td width="40%" valign="top">
 
 ```yaml
-Nama    : M N DAFFA
+Nama    : Daffa
 Peran   : STI Student · Independent Dev
 Brand   : NaDev
 Minat   : AI · Compiler · Cybersecurity
@@ -47,6 +47,33 @@ Status  : Building Vidyax Language 🧠
 <img src="https://img.shields.io/badge/-Digital%20Forensik-0d1117?style=for-the-badge&logo=vercel&logoColor=58A6FF"/>
 <img src="https://img.shields.io/badge/-Compiler%20Engineering-0d1117?style=for-the-badge&logo=llvm&logoColor=58A6FF"/>
 <img src="https://img.shields.io/badge/-Bahasa%20Pemrograman-0d1117?style=for-the-badge&logo=codeforces&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/-Kepolisian%20(Polri)%20%F0%9F%9A%93-DC2626?style=for-the-badge&logo=shield&logoColor=white"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:1a1a2e&height=3&width=100%"/>
+
+## 🚓 Cita-Cita
+
+<table>
+<tr>
+<td width="70%" valign="top">
+
+Selain ngoprek compiler dan AI, ada satu mimpi besar yang masih dikejar: **jadi anggota Polri** 🫡
+
+Buat saya, dunia digital dan dunia nyata sebenarnya nyambung — ilmu **digital forensik** dan **cyber security** yang selama ini dipelajari itu justru bekal buat terjun langsung membantu penegakan hukum di era teknologi. Jadi dua-duanya jalan bareng: bangun teknologi sambil menyiapkan diri buat pengabdian ke NKRI. 🇮🇩
+
+</td>
+<td width="30%" valign="top" align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=18&duration=2200&pause=800&color=DC2626&center=true&vCenter=true&width=220&height=90&multiline=true&lines=NKRI+HARGA+MATI;PRO+PATRIA;Semoga+Lolos+%F0%9F%99%8F"/>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://img.shields.io/badge/CITA--CITA-Anggota%20POLRI-DC2626?style=for-the-badge&logo=shield&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/MOTTO-Rastra%20Sewakottama-1a1a2e?style=for-the-badge&logo=star&logoColor=58A6FF"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:1a1a2e&height=3&width=100%"/>
@@ -140,7 +167,7 @@ Eksperimen dan pengembangan pada bidang Artificial Intelligence, Machine Learnin
 </p>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=500&height=30&lines=%22Terus+belajar%2C+terus+membangun.%22"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=%22Terus+belajar%2C+terus+membangun.%22;%22Membangun+teknologi%2C+menyiapkan+pengabdian.%22"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a3e,100:0d1117&height=120&section=footer"/>
