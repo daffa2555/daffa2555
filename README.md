@@ -64,7 +64,7 @@ Buat saya, dunia digital dan dunia nyata sebenarnya nyambung — ilmu **digital 
 </td>
 <td width="30%" valign="top" align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=18&duration=2200&pause=800&color=DC2626&center=true&vCenter=true&width=220&height=90&multiline=true&lines=NKRI+HARGA+MATI;PRO+PATRIA;Semoga+Lolos+%F0%9F%99%8F"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=18&duration=2200&pause=800&color=DC2626&center=true&vCenter=true&width=220&height=90&multiline=true&lines=NKRI+HARGA+MATI;PRO+PATRIA;Semoga+Lolos"/>
 
 </td>
 </tr>
