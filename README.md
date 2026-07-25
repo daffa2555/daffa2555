@@ -47,7 +47,6 @@ Status  : Building Vidyax Language 🧠
 <img src="https://img.shields.io/badge/-Digital%20Forensik-0d1117?style=for-the-badge&logo=vercel&logoColor=58A6FF"/>
 <img src="https://img.shields.io/badge/-Compiler%20Engineering-0d1117?style=for-the-badge&logo=llvm&logoColor=58A6FF"/>
 <img src="https://img.shields.io/badge/-Bahasa%20Pemrograman-0d1117?style=for-the-badge&logo=codeforces&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/-Kepolisian%20(Polri)%20%F0%9F%9A%93-DC2626?style=for-the-badge&logo=shield&logoColor=white"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:1a1a2e&height=3&width=100%"/>
