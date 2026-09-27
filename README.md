@@ -16,6 +16,9 @@
 
 <img src="https://img.shields.io/badge/🧠_Sedang_Membangun-Vidyax_Language-2d1b4e?style=for-the-badge&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/🛡️_Sedang_Membangun-AegisDFIR-2d1b4e?style=for-the-badge&labelColor=0d1117"/>
+<a href="https://doi.org/10.5281/zenodo.22929676"><img src="https://img.shields.io/badge/📄_Research_Paper-DOI:_10.5281%2Fzenodo.22929676-0d1117?style=for-the-badge&logo=doi&logoColor=58A6FF&labelColor=1a1a2e"/></a>
+<a href="https://github.com/Tokenectomy-Labs/Kronomus"><img src="https://img.shields.io/badge/⚡_Sedang_Membangun-Kronumos_AI-2d1b4e?style=for-the-badge&labelColor=0d1117"/></a>
+
 
 </div>
 
@@ -90,36 +93,42 @@ Buat saya, dunia digital dan dunia nyata sebenarnya nyambung — ilmu **digital 
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Vidyax Programming Language
-Bahasa pemrograman modern dengan arsitektur multi-engine untuk pengembangan aplikasi dan integrasi AI.
+### ⚡ Kronumos (Autonomous Program Repair)
+Framework rekayasa perangkat lunak otonom yang mengawinkan open-weight 7B LLM dengan Tokenectomy Sub-Cortex (Rust) untuk perbaikan bug otomatis dengan jaminan zero dirty diffs dan $0 marginal cost pada SWE-bench Verified.
 
-<img src="https://img.shields.io/badge/Lexer-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/> <img src="https://img.shields.io/badge/Parser-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/> <img src="https://img.shields.io/badge/AST-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/> <img src="https://img.shields.io/badge/Semantic_Analyzer-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/> <img src="https://img.shields.io/badge/Compiler-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/> <img src="https://img.shields.io/badge/VM_(C)-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/> <img src="https://img.shields.io/badge/Python_Transpiler-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/> <img src="https://img.shields.io/badge/AI_Native-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/>
+<a href="https://doi.org/10.5281/zenodo.22929676"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22929676-blue.svg?style=flat-square"/></a>
+<a href="https://github.com/Tokenectomy-Labs/Kronomus"><img src="https://img.shields.io/badge/Repo-Tokenectomy--Labs%2FKronomus-1a1a2e?style=flat-square&color=58A6FF"/></a>
+<a href="https://huggingface.co/NadevA23/Kronumos"><img src="https://img.shields.io/badge/HF_Model-Kronumos-yellow.svg?style=flat-square"/></a>
 
-**[→ Lihat Repository](https://github.com/Vidyax-Lang/Vidyax)**
+**[📄 Baca Preprint Paper di Zenodo](https://doi.org/10.5281/zenodo.22929676)** · **[→ GitHub Repository](https://github.com/Tokenectomy-Labs/Kronomus)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ AegisDFIR
-Framework Digital Forensics & Incident Response berbasis AI untuk investigasi digital yang efisien — arsitektur multi-layer dengan klien Flutter, microservices, modul AI, dan parser forensik.
+### 🧠 Vidyax Programming Language
+Bahasa pemrograman modern dengan arsitektur multi-engine untuk pengembangan aplikasi dan integrasi AI.
 
-<img src="https://img.shields.io/badge/Flutter-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/> <img src="https://img.shields.io/badge/Microservices-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/> <img src="https://img.shields.io/badge/AI_Modules-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/> <img src="https://img.shields.io/badge/Forensic_Parsers-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/>
+<img src="https://img.shields.io/badge/Lexer-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/> <img src="https://img.shields.io/badge/Parser-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/> <img src="https://img.shields.io/badge/AST-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/> <img src="https://img.shields.io/badge/Compiler-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/> <img src="https://img.shields.io/badge/VM_(C)-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/>
+
+**[→ Lihat Repository](https://github.com/Vidyax-Lang/Vidyax)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Projects
-Eksperimen dan pengembangan pada bidang Artificial Intelligence, Machine Learning, Automation, dan Agentic AI — termasuk model fine-tuned **Viydax-Coder-7b-v1**.
+### 🛡️ AegisDFIR
+Framework Digital Forensics & Incident Response berbasis AI untuk investigasi digital yang efisien — arsitektur multi-layer dengan klien Flutter, microservices, modul AI, dan parser forensik.
 
-**[→ HuggingFace](https://huggingface.co/NadevA23)**
+<img src="https://img.shields.io/badge/Flutter-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/> <img src="https://img.shields.io/badge/Microservices-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/> <img src="https://img.shields.io/badge/AI_Modules-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/>
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Fokus Pembelajaran
-`Artificial Intelligence` `Compiler Engineering` `Digital Forensik` `Reverse Engineering` `Operating System` `System Programming` `Cyber Security`
+### 🤖 AI Models & Research
+Eksperimen dan fine-tuning model LLM untuk code repair dan reasoning — termasuk **Kronumos-7B** dan **Viydax-Coder-7b-v1**.
+
+**[→ Kunjungi Profil HuggingFace (NadevA23)](https://huggingface.co/NadevA23)**
 
 </td>
 </tr>
