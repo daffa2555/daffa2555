@@ -40,9 +40,9 @@ Saat ini sedang mengembangkan **Vidyax**, bahasa pemrograman AI-native dengan co
 ```yaml
 Nama    : M N Daffa
 Peran   : STI Student · Independent Dev
-Brand   : NaDev
+Brand   : Tokenectomy Labs
 Minat   : AI · Compiler · Cybersecurity
-Status  : Building Vidyax Language 🧠
+Status  : Kronumos Kairos 🧠
 ```
 
 </td>
