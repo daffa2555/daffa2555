@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1a3e,60:2d1b4e,100:16213e&height=270&section=header&text=Halo,%20Saya%20Daffa&fontSize=50&fontColor=58A6FF&animation=twinkling&fontAlignY=36&desc=Mahasiswa%20Sistem%20dan%20Teknologi%20Informasi&descAlignY=54&descSize=18&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1a3e,60:2d1b4e,100:16213e&height=270&section=header&text=Hi,%20I'm%20Daffa&fontSize=50&fontColor=58A6FF&animation=twinkling&fontAlignY=36&desc=Systems%20Architect%20%E2%80%A2%20AI%20%26%20Compiler%20Engineer&descAlignY=54&descSize=18&descColor=ffffff" width="100%"/>
 
 <a href="https://daffa2555.github.io">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%A4%96+Artificial+Intelligence+Enthusiast;%E2%9A%99%EF%B8%8F+Compiler+%26+Language+Engineer;%F0%9F%9B%A1%EF%B8%8F+Digital+Forensics+Developer;%F0%9F%A7%A0+Building+Vidyax+Programming+Language;%F0%9F%9A%80+Terus+belajar%2C+terus+membangun."/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%A4%96+AI+Systems+Architect;%E2%9A%99%EF%B8%8F+Compiler+%26+Language+Engineer;%F0%9F%9B%A1%EF%B8%8F+Digital+Forensics+%26+Cybersecurity;%F0%9F%A7%A0+Building+Vidyax+Language+%26+Kronumos+APR;%F0%9F%9A%80+Always+learning%2C+always+building."/>
 </a>
 
 <br/>
@@ -14,35 +14,33 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🧠_Sedang_Membangun-Vidyax_Language-2d1b4e?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🛡️_Sedang_Membangun-AegisDFIR-2d1b4e?style=for-the-badge&labelColor=0d1117"/>
-<a href="https://doi.org/10.5281/zenodo.22929676"><img src="https://img.shields.io/badge/📄_Research_Paper-DOI:_10.5281%2Fzenodo.22929676-0d1117?style=for-the-badge&logo=doi&logoColor=58A6FF&labelColor=1a1a2e"/></a>
-<a href="https://github.com/Tokenectomy-Labs/Kronomus"><img src="https://img.shields.io/badge/⚡_Sedang_Membangun-Kronumos_AI-2d1b4e?style=for-the-badge&labelColor=0d1117"/></a>
-
+<a href="https://github.com/Vidyax-Lang/Vidyax"><img src="https://img.shields.io/badge/Building-Vidyax_Language-2d1b4e?style=for-the-badge&labelColor=0d1117"/></a>
+<a href="https://doi.org/10.5281/zenodo.22929676"><img src="https://img.shields.io/badge/Research_Paper-DOI:_10.5281%2Fzenodo.22929676-0d1117?style=for-the-badge&logo=doi&logoColor=58A6FF&labelColor=1a1a2e"/></a>
+<a href="https://github.com/Tokenectomy-Labs/Kronomus"><img src="https://img.shields.io/badge/Building-Kronumos_AI-2d1b4e?style=for-the-badge&labelColor=0d1117"/></a>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:1a1a2e&height=3&width=100%"/>
 
-## 👨‍💻 Tentang Saya
+## 👨‍💻 About Me
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-Saya adalah mahasiswa **Sistem dan Teknologi Informasi** yang membangun teknologi dari nol — mulai dari perancangan arsitektur hingga implementasi. Fokus utama saya ada di persimpangan antara **compiler engineering**, **kecerdasan buatan**, dan **keamanan digital**.
+I am a software engineer and systems architect building computational infrastructure from scratch — from theoretical architecture to low-level implementation. My core focus lies at the intersection of **autonomous neuro-symbolic AI**, **compiler engineering**, and **cybersecurity / digital forensics**.
 
-Saat ini sedang mengembangkan **Vidyax**, bahasa pemrograman AI-native dengan compiler dan virtual machine sendiri, serta **AegisDFIR**, platform forensik digital berbasis AI.
+Currently architecting **Kronumos Kairos**, a cost-bounded automated program repair system evaluated on Princeton SWE-bench Verified, **Vidyax**, an AI-native programming language with its own compiler and bytecode C virtual machine, and **AegisDFIR**, an AI-driven digital forensics framework.
 
 </td>
 <td width="40%" valign="top">
 
 ```yaml
-Nama    : M N Daffa
-Peran   : STI Student · Independent Dev
-Brand   : Tokenectomy Labs
-Minat   : AI · Compiler · Cybersecurity
-Status  : Kronumos Kairos 🧠
+Name    : Muhammad Naufal Daffa
+Role    : Systems Architect · Independent Researcher
+Org     : Tokenectomy Labs
+Focus   : Autonomous AI · Compilers · Cyber Defense
+Status  : Building Kronumos & Vidyax 🧠
 ```
 
 </td>
@@ -51,66 +49,64 @@ Status  : Kronumos Kairos 🧠
 
 <p align="left">
 <img src="https://img.shields.io/badge/-Artificial%20Intelligence-0d1117?style=for-the-badge&logo=openai&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/-Keamanan%20Siber-0d1117?style=for-the-badge&logo=hackthebox&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/-Digital%20Forensik-0d1117?style=for-the-badge&logo=vercel&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/-Cybersecurity-0d1117?style=for-the-badge&logo=hackthebox&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/-Digital%20Forensics-0d1117?style=for-the-badge&logo=target&logoColor=58A6FF"/>
 <img src="https://img.shields.io/badge/-Compiler%20Engineering-0d1117?style=for-the-badge&logo=llvm&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/-Bahasa%20Pemrograman-0d1117?style=for-the-badge&logo=codeforces&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/-Systems%20Programming-0d1117?style=for-the-badge&logo=rust&logoColor=58A6FF"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:1a1a2e&height=3&width=100%"/>
 
-## 🚓 Cita-Cita
+## 🛡️ Career Mission & Civic Service
 
 <table>
 <tr>
 <td width="70%" valign="top">
 
-Selain ngoprek compiler dan AI, ada satu mimpi besar yang masih dikejar: **jadi anggota Polri** 🫡
+Beyond compiler internals and neural architectures, I hold a deep lifelong conviction: **serving in National Cyber Defense and Law Enforcement (POLRI)** 🫡.
 
-Buat saya, dunia digital dan dunia nyata sebenarnya nyambung — ilmu **digital forensik** dan **cyber security** yang selama ini dipelajari itu justru bekal buat terjun langsung membantu penegakan hukum di era teknologi. Jadi dua-duanya jalan bareng: bangun teknologi sambil menyiapkan diri buat pengabdian ke NKRI. 🇮🇩
-
-*(iya, agak keliatan niat banget ya di README 😄 — yaudah biarin, sekalian doa)*
+The digital frontier and public security are fundamentally interconnected. The principles of **digital forensics**, **binary reverse engineering**, and **deterministic software invariants** serve as crucial operational capabilities for upholding the rule of law and defending national cyber sovereignty. Engineering deep systems and preparing for dedicated public service advance hand-in-hand.
 
 </td>
 <td width="30%" valign="top" align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=18&duration=2200&pause=800&color=DC2626&center=true&vCenter=true&width=220&height=90&multiline=true&lines=NKRI+HARGA+MATI;PRO+PATRIA;Semoga+Lolos+%F0%9F%99%8F"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=18&duration=2200&pause=800&color=DC2626&center=true&vCenter=true&width=220&height=90&multiline=true&lines=CYBER+DEFENSE;PRO+PATRIA;DEVOTION+TO+DUTY"/>
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-<img src="https://img.shields.io/badge/CITA--CITA-Anggota%20POLRI-DC2626?style=for-the-badge&logo=shield&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/ASPIRATION-National%20Cyber%20Defense%20(POLRI)-DC2626?style=for-the-badge&logo=shield&logoColor=white&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/MOTTO-Rastra%20Sewakottama-1a1a2e?style=for-the-badge&logo=star&logoColor=58A6FF"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:1a1a2e&height=3&width=100%"/>
 
-## 🚀 Proyek Unggulan
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### ⚡ Kronumos (Autonomous Program Repair)
-Framework rekayasa perangkat lunak otonom yang mengawinkan open-weight 7B LLM dengan Tokenectomy Sub-Cortex (Rust) untuk perbaikan bug otomatis dengan jaminan zero dirty diffs dan $0 marginal cost pada SWE-bench Verified.
+Autonomous software engineering framework coupling open-weight 7B LLMs with the deterministic Tokenectomy Sub-Cortex (Rust) for verifiable, zero-dirty-diff bug remediation at $0 marginal cost on Princeton SWE-bench Verified.
 
 <a href="https://doi.org/10.5281/zenodo.22929676"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22929676-blue.svg?style=flat-square"/></a>
 <a href="https://github.com/Tokenectomy-Labs/Kronomus"><img src="https://img.shields.io/badge/Repo-Tokenectomy--Labs%2FKronomus-1a1a2e?style=flat-square&color=58A6FF"/></a>
 <a href="https://huggingface.co/NadevA23/Kronumos"><img src="https://img.shields.io/badge/HF_Model-Kronumos-yellow.svg?style=flat-square"/></a>
 
-**[📄 Baca Preprint Paper di Zenodo](https://doi.org/10.5281/zenodo.22929676)** · **[→ GitHub Repository](https://github.com/Tokenectomy-Labs/Kronomus)**
+**[📄 Read Preprint on Zenodo](https://doi.org/10.5281/zenodo.22929676)** · **[→ GitHub Repository](https://github.com/Tokenectomy-Labs/Kronomus)**
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧠 Vidyax Programming Language
-Bahasa pemrograman modern dengan arsitektur multi-engine untuk pengembangan aplikasi dan integrasi AI.
+Modern programming language featuring a multi-engine architecture designed for high-performance computing, systems tooling, and native AI integration.
 
 <img src="https://img.shields.io/badge/Lexer-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/> <img src="https://img.shields.io/badge/Parser-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/> <img src="https://img.shields.io/badge/AST-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/> <img src="https://img.shields.io/badge/Compiler-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/> <img src="https://img.shields.io/badge/VM_(C)-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/>
 
-**[→ Lihat Repository](https://github.com/Vidyax-Lang/Vidyax)**
+**[→ View Repository](https://github.com/Vidyax-Lang/Vidyax)**
 
 </td>
 </tr>
@@ -118,17 +114,17 @@ Bahasa pemrograman modern dengan arsitektur multi-engine untuk pengembangan apli
 <td width="50%" valign="top">
 
 ### 🛡️ AegisDFIR
-Framework Digital Forensics & Incident Response berbasis AI untuk investigasi digital yang efisien — arsitektur multi-layer dengan klien Flutter, microservices, modul AI, dan parser forensik.
+AI-assisted Digital Forensics & Incident Response framework for scalable digital triage and forensic analysis — featuring a reactive Flutter client, distributed microservices, and native forensic artifact parsers.
 
-<img src="https://img.shields.io/badge/Flutter-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/> <img src="https://img.shields.io/badge/Microservices-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/> <img src="https://img.shields.io/badge/AI_Modules-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/>
+<img src="https://img.shields.io/badge/Flutter-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/> <img src="https://img.shields.io/badge/Microservices-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/> <img src="https://img.shields.io/badge/AI_Modules-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/> <img src="https://img.shields.io/badge/Forensic_Parsers-1a1a2e?style=flat-square&labelColor=1a1a2e&color=58A6FF"/>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 AI Models & Research
-Eksperimen dan fine-tuning model LLM untuk code repair dan reasoning — termasuk **Kronumos-7B** dan **Viydax-Coder-7b-v1**.
+Specialized neural models fine-tuned for code synthesis, invariant reasoning, and autonomous program repair — including **Kronumos-7B** and **Viydax-Coder-7b-v1**.
 
-**[→ Kunjungi Profil HuggingFace (NadevA23)](https://huggingface.co/NadevA23)**
+**[→ Visit Hugging Face Profile (NadevA23)](https://huggingface.co/NadevA23)**
 
 </td>
 </tr>
@@ -136,46 +132,41 @@ Eksperimen dan fine-tuning model LLM untuk code repair dan reasoning — termasu
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:1a1a2e&height=3&width=100%"/>
 
-## 💻 Bahasa Pemrograman & Tools
+## 💻 Technologies & Toolchain
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,linux,git,github,vscode,arch,docker&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,rust,c,cpp,js,html,css,linux,git,github,vscode,arch,docker&theme=dark"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:1a1a2e&height=3&width=100%"/>
 
-## 📊 Statistik GitHub
+## 📊 GitHub Analytics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=daffa2555&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffa2555&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=daffa2555&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=daffa2555&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=daffa2555&theme=tokyonight&hide_border=true&background=0d1117"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=daffa2555&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=daffa2555&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:2d1b4e,100:0d1117&height=3&width=100%"/>
 <br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="28"/> Contribution Graph
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="28"/> <strong>Contribution Timeline</strong>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daffa2555/daffa2555/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daffa2555/daffa2555/output/pacman-contribution-graph.svg">
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/daffa2555/daffa2555/output/pacman-contribution-graph.svg">
-</picture>
+  </picture>
+</p>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:1a1a2e&height=3&width=100%"/>
 
-## 📫 Hubungi Saya
+## 📫 Connect With Me
 
 <p align="center">
 <a href="https://github.com/daffa2555"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF"/></a>
@@ -184,7 +175,7 @@ Eksperimen dan fine-tuning model LLM untuk code repair dan reasoning — termasu
 </p>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=%22Terus+belajar%2C+terus+membangun.%22;%22Membangun+teknologi%2C+menyiapkan+pengabdian.%22"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=%22Always+learning%2C+always+building.%22;%22Engineering+deep+systems%2C+preparing+to+serve.%22"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a3e,100:0d1117&height=120&section=footer"/>
