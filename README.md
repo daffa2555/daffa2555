@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1a3e,60:2d1b4e,100:16213e&height=270&section=header&text=Hi,%20I'm%20Daffa&fontSize=50&fontColor=58A6FF&animation=twinkling&fontAlignY=36&desc=Systems%20Architect%20%E2%80%A2%20AI%20%26%20Compiler%20Engineer&descAlignY=54&descSize=18&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1a3e,60:2d1b4e,100:16213e&height=270&section=header&text=Hi,%20I%20am%20Daffa&fontSize=50&fontColor=58A6FF&animation=twinkling&fontAlignY=36&desc=Systems%20Architect%20-%20AI%20and%20Compiler%20Engineer&descAlignY=54&descSize=18&descColor=ffffff" width="100%"/>
 
 <a href="https://daffa2555.github.io">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%A4%96+AI+Systems+Architect;%E2%9A%99%EF%B8%8F+Compiler+%26+Language+Engineer;%F0%9F%9B%A1%EF%B8%8F+Digital+Forensics+%26+Cybersecurity;%F0%9F%A7%A0+Building+Vidyax+Language+%26+Kronumos+APR;%F0%9F%9A%80+Always+learning%2C+always+building."/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%A4%96+AI+Systems+Architect;%E2%9A%99%EF%B8%8F+Compiler+and+Language+Engineer;%F0%9F%9B%A1%EF%B8%8F+Digital+Forensics+and+Cybersecurity;%F0%9F%A7%A0+Building+Vidyax+Language+and+Kronumos+APR;%F0%9F%9A%80+Always+learning%2C+always+building."/>
 </a>
 
 <br/>
