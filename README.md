@@ -27,21 +27,20 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
 I am a software engineer and systems architect building computational infrastructure from scratch — from theoretical architecture to low-level implementation. My core focus lies at the intersection of **autonomous neuro-symbolic AI**, **compiler engineering**, and **cybersecurity / digital forensics**.
 
 Currently architecting **Kronumos Kairos**, a cost-bounded automated program repair system evaluated on Princeton SWE-bench Verified, **Vidyax**, an AI-native programming language with its own compiler and bytecode C virtual machine, and **AegisDFIR**, an AI-driven digital forensics framework.
 
 </td>
-<td width="40%" valign="top">
+<td width="35%" valign="top">
 
 ```yaml
 Name    : Muhammad Naufal Daffa
-Role    : Systems Architect · Independent Researcher
-ORCID   : 0009-0004-9548-5221
+Role    : Systems Architect · Researcher
 Org     : Tokenectomy Labs
-Focus   : Autonomous AI · Compilers · Cyber Defense
+Focus   : AI · Compilers · Cyber Defense
 Status  : Building Kronumos & Vidyax 🧠
 ```
 
