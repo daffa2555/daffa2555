@@ -16,6 +16,7 @@
 
 <a href="https://github.com/Vidyax-Lang/Vidyax"><img src="https://img.shields.io/badge/Building-Vidyax_Language-2d1b4e?style=for-the-badge&labelColor=0d1117"/></a>
 <a href="https://doi.org/10.5281/zenodo.22929676"><img src="https://img.shields.io/badge/Research_Paper-DOI:_10.5281%2Fzenodo.22929676-0d1117?style=for-the-badge&logo=doi&logoColor=58A6FF&labelColor=1a1a2e"/></a>
+<a href="https://orcid.org/0009-0004-9548-5221"><img src="https://img.shields.io/badge/ORCID-0009--0004--9548--5221-0d1117?style=for-the-badge&logo=orcid&logoColor=A6CE39&labelColor=1a1a2e"/></a>
 <a href="https://github.com/Tokenectomy-Labs/Kronomus"><img src="https://img.shields.io/badge/Building-Kronumos_AI-2d1b4e?style=for-the-badge&labelColor=0d1117"/></a>
 
 </div>
@@ -38,6 +39,7 @@ Currently architecting **Kronumos Kairos**, a cost-bounded automated program rep
 ```yaml
 Name    : Muhammad Naufal Daffa
 Role    : Systems Architect · Independent Researcher
+ORCID   : 0009-0004-9548-5221
 Org     : Tokenectomy Labs
 Focus   : Autonomous AI · Compilers · Cyber Defense
 Status  : Building Kronumos & Vidyax 🧠
@@ -172,6 +174,7 @@ Specialized neural models fine-tuned for code synthesis, invariant reasoning, an
 <a href="https://github.com/daffa2555"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF"/></a>
 <a href="https://daffa2555.github.io"><img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"/></a>
 <a href="https://huggingface.co/NadevA23"><img src="https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=58A6FF"/></a>
+<a href="https://orcid.org/0009-0004-9548-5221"><img src="https://img.shields.io/badge/ORCID-0d1117?style=for-the-badge&logo=orcid&logoColor=A6CE39"/></a>
 </p>
 
 <div align="center">
