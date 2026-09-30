@@ -15,7 +15,7 @@
 <br/><br/>
 
 <a href="https://github.com/Vidyax-Lang/Vidyax"><img src="https://img.shields.io/badge/Building-Vidyax_Language-2d1b4e?style=for-the-badge&labelColor=0d1117"/></a>
-<a href="https://doi.org/10.5281/zenodo.22929676"><img src="https://img.shields.io/badge/Research_Paper-DOI:_10.5281%2Fzenodo.22929676-0d1117?style=for-the-badge&logo=doi&logoColor=58A6FF&labelColor=1a1a2e"/></a>
+<a href="https://doi.org/10.21203/rs.3.rs-11205335/v1"><img src="https://img.shields.io/badge/Research_Square-DOI:_10.21203%2Frs.3.rs--11205335%2Fv1-0d1117?style=for-the-badge&logo=doi&logoColor=58A6FF&labelColor=1a1a2e"/></a>
 <a href="https://orcid.org/0009-0000-7909-4916"><img src="https://img.shields.io/badge/ORCID-0009--0000--7909--4916-0d1117?style=for-the-badge&logo=orcid&logoColor=A6CE39&labelColor=1a1a2e"/></a>
 <a href="https://github.com/Tokenectomy-Labs/Kronomus"><img src="https://img.shields.io/badge/Building-Kronumos_AI-2d1b4e?style=for-the-badge&labelColor=0d1117"/></a>
 
@@ -93,11 +93,12 @@ The digital frontier and public security are fundamentally interconnected. The p
 ### ⚡ Kronumos (Autonomous Program Repair)
 Autonomous software engineering framework coupling open-weight 7B LLMs with the deterministic Tokenectomy Sub-Cortex (Rust) for verifiable, zero-dirty-diff bug remediation at $0 marginal cost on Princeton SWE-bench Verified.
 
-<a href="https://doi.org/10.5281/zenodo.22929676"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22929676-blue.svg?style=flat-square"/></a>
+<a href="https://doi.org/10.21203/rs.3.rs-11205335/v1"><img src="https://img.shields.io/badge/Research_Square-10.21203%2Frs.3.rs--11205335%2Fv1-blue.svg?style=flat-square"/></a>
+<a href="https://doi.org/10.5281/zenodo.22929676"><img src="https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.22929676-blue.svg?style=flat-square"/></a>
 <a href="https://github.com/Tokenectomy-Labs/Kronomus"><img src="https://img.shields.io/badge/Repo-Tokenectomy--Labs%2FKronomus-1a1a2e?style=flat-square&color=58A6FF"/></a>
 <a href="https://huggingface.co/NadevA23/Kronumos"><img src="https://img.shields.io/badge/HF_Model-Kronumos-yellow.svg?style=flat-square"/></a>
 
-**[📄 Read Preprint on Zenodo](https://doi.org/10.5281/zenodo.22929676)** · **[→ GitHub Repository](https://github.com/Tokenectomy-Labs/Kronomus)**
+**[📄 Read on Research Square (Springer Nature)](https://doi.org/10.21203/rs.3.rs-11205335/v1)** · **[📄 Zenodo](https://doi.org/10.5281/zenodo.22929676)** · **[→ GitHub Repository](https://github.com/Tokenectomy-Labs/Kronomus)**
 
 </td>
 <td width="50%" valign="top">
