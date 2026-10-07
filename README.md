@@ -42,6 +42,7 @@ Role    : Systems Architect · Researcher
 Org     : Tokenectomy Labs
 Focus   : AI · Compilers · Cyber Defense
 Status  : Building Kronumos & Vidyax 🧠
+Email   : daffa@kronumos.com
 ```
 
 </td>
